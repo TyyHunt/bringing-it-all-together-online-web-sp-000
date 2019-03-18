@@ -72,4 +72,7 @@ end
     DB[:conn].execute(sql, name)
   end
 
+  def update
+  end
+
 end
